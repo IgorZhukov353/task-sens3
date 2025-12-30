@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/task-sens.ino.hex'
+elf = 'build/task-sens.ino.elf'
